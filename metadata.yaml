@@ -1,0 +1,29 @@
+_repo: Practical-Agitation_66610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chapman, John Jay
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '4825'
+    url: http://www.gutenberg.org/2009/agents/4825
+    wikipedia: https://en.wikipedia.org/wiki/John_Jay_Chapman
+description: ''
+gutenberg_issued: '2021-10-25'
+identifiers:
+  gutenberg: '66610'
+  lccn: 00001581
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Political ethics'
+- !lcsh 'Politics, Practical -- United States'
+- !lcc 'JK'
+- GITenberg
+tableOfContents: Election time -- Between elections -- The masses -- Literature --
+  Principles -- Conclusion.
+title: Practical Agitation
+url: http://www.gutenberg.org/ebooks/66610
