@@ -1,5 +1,8 @@
 _repo: Practical-Agitation_66610
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66610-h/images/cover.jpg
 creator:
   author:
     agent_name: Chapman, John Jay
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4825
     wikipedia: https://en.wikipedia.org/wiki/John_Jay_Chapman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66610#Practical-Agitation
 gutenberg_issued: '2021-10-25'
 identifiers:
   gutenberg: '66610'
